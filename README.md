@@ -1,6 +1,6 @@
 # ML-Market-Risk-Prediction
 
-Sistem prediksi risiko pasar XAU/USD menggunakan Machine Learning yang terintegrasi dengan MetaTrader 5 (MT5) dan visualisasi real-time.
+Sistem prediksi risiko pasar XAU/USD menggunakan Machine Learning yang terintegrasi dengan MetaTrader 5 (MT5) dan visualisasi real-time menggunakan KNN dan Random Forest
 
 ## Deskripsi Proyek
 
